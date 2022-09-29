@@ -8417,15 +8417,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JonoP\\.nuget\\packages\\": {}
+    "C:\\Users\\tish386\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Infosys300.SoftEng762",
       "projectName": "Infosys300.SoftEng762",
-      "projectPath": "C:\\Users\\JonoP\\OneDrive\\Desktop\\Movie-Stats\\.local",
-      "packagesPath": "C:\\Users\\JonoP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JonoP\\OneDrive\\Desktop\\Movie-Stats\\.local"
+      "projectPath": "C:\\Users\\tish386\\Downloads\\Movie-Stats-Fetch-Movie-Title-and-Move-Rating\\Movie-Stats-Fetch-Movie-Title-and-Move-Rating\\.local",
+      "packagesPath": "C:\\Users\\tish386\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tish386\\Downloads\\Movie-Stats-Fetch-Movie-Title-and-Move-Rating\\Movie-Stats-Fetch-Movie-Title-and-Move-Rating\\.local",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ]
     },
     "frameworks": {
       "net461": {
@@ -8451,7 +8455,7 @@
             "version": "[22.4.7, 22.4.7]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\JonoP\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
