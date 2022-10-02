@@ -1,51 +1,51 @@
-﻿Movie Names,Movie Rating,Worldwide Gross,Domestic Gross Percentage,International Gross Percentage,Budget
-The Dark Knight,9.0,"$1,006,354,095",53.2%,46.8%,"$185,000,000"
-The Lord of the Rings: The Return of the King,9.0,"$1,146,436,214",33%,67%,"$94,000,000"
-Inception,8.8,"$836,848,102",35%,65%,"$160,000,000"
-The Lord of the Rings: The Two Towers,8.8,"$947,896,241",36.2%,63.8%,"$94,000,000"
-Vikram,8.4,"$29,843,869",5.9%,94.1%,
-Spider-Man: Into the Spider-Verse,8.4,"$375,540,831",50.7%,49.3%,"$90,000,000"
-Avengers: Endgame,8.4,"$2,797,501,328",30.7%,69.3%,"$356,000,000"
-Avengers: Infinity War,8.4,"$2,048,359,754",33.1%,66.9%,
-Top Gun: Maverick,8.4,"$1,472,761,888",48.4%,51.6%,
-The Dark Knight Rises,8.4,"$1,081,153,097",41.5%,58.5%,"$250,000,000"
-K.G.F: Chapter 2,8.4,"$89,123,940",3.2%,96.8%,
-Shershaah,8.4,,,,
-Oldboy,8.4,"$1,080",–,100%,
-Dangal,8.3,"$303,723,636",4.1%,95.9%,
-Karthikeya 2,8.3,"$2,440,029",–,100%,
-Spider-Man: No Way Home,8.3,"$1,977,197,960",41.2%,58.8%,
-1917,8.2,"$384,934,924",41.4%,58.6%,"$95,000,000"
-Uri: The Surgical Strike,8.2,"$39,346,577",10.6%,89.4%,
-K.G.F: Chapter 1,8.2,"$6,421,597",–,100%,
-The Mountain II,8.2,"$11,378,898",–,100%,
-Baahubali 2: The Conclusion,8.2,"$254,158,390",7.9%,92.1%,
-Gangs of Wasseypur,8.2,"$4,384,642",–,100%,
-Warrior,8.2,"$23,308,615",58.6%,41.4%,"$25,000,000"
-Demon Slayer the Movie: Mugen Train,8.2,"$447,691,934",11.1%,88.9%,
-V for Vendetta,8.2,"$132,511,035",53.2%,46.8%,"$54,000,000"
-Batman Begins,8.2,"$373,672,993",55.4%,44.6%,"$150,000,000"
-Kill Bill: Vol. 1,8.2,"$180,906,076",38.7%,61.3%,"$30,000,000"
-Everything Everywhere All at Once,8.1,"$99,711,505",70.2%,29.8%,
-Bajrangi Bhaijaan,8.1,"$121,126,188",6.8%,93.2%,
-Logan,8.1,"$619,179,950",36.5%,63.5%,"$97,000,000"
-Rush,8.1,"$96,983,009",27.8%,72.2%,"$38,000,000"
-Ford v Ferrari,8.1,"$225,508,210",52.2%,47.8%,"$97,600,000"
-Mad Max: Fury Road,8.1,"$375,709,470",41%,59%,"$150,000,000"
-A Wednesday,8.1,"$3,256,911",–,100%,
-How to Train Your Dragon,8.1,"$494,879,471",44%,56%,"$165,000,000"
-Pirates of the Caribbean: The Curse of the Black Pearl,8.1,"$654,264,015",46.7%,53.3%,"$140,000,000"
-RRR,8.0,"$99,946,904",11.3%,88.7%,
-Haider,8.0,"$1,404,307",74.6%,25.4%,
-Baahubali: The Beginning,8.0,"$24,548,038",27.4%,72.6%,
-Guardians of the Galaxy,8.0,"$773,350,147",43.2%,56.8%,"$170,000,000"
-Blade Runner 2049,8.0,"$259,352,064",35.5%,64.5%,"$150,000,000"
-The Revenant,8.0,"$532,950,503",34.5%,65.5%,"$135,000,000"
-Elite Squad 2: The Enemy Within,8.0,"$63,618,850",0.2%,99.8%,
-Deadpool,8.0,"$782,836,791",46.4%,53.6%,"$58,000,000"
-Zack Snyder's Justice League,8.0,,,,
-Ip Man,8.0,"$22,108,789",–,100%,
-Dune,8.0,"$401,847,900",27%,73%,
-Elite Squad,8.0,"$14,759,148",–,99.9%,
-The Avengers,8.0,"$1,518,815,515",41%,59%,"$220,000,000"
-The Bourne Ultimatum,8.0,"$444,100,035",51.2%,48.8%,"$110,000,000"
+﻿Movie ID,Movie Names,Movie Rating,Worldwide Gross,Domestic Gross Percentage,International Gross Percentage,Budget
+https://www.imdb.com/title/tt0468569/?ref_=adv_li_tt,The Dark Knight,9.0,,,,
+https://www.imdb.com/title/tt0167260/?ref_=adv_li_tt,The Lord of the Rings: The Return of the King,9.0,,,,
+https://www.imdb.com/title/tt1375666/?ref_=adv_li_tt,Inception,8.8,,,,
+https://www.imdb.com/title/tt0167261/?ref_=adv_li_tt,The Lord of the Rings: The Two Towers,8.8,,,,
+https://www.imdb.com/title/tt9179430/?ref_=adv_li_tt,Vikram,8.4,,,,
+https://www.imdb.com/title/tt4633694/?ref_=adv_li_tt,Spider-Man: Into the Spider-Verse,8.4,,,,
+https://www.imdb.com/title/tt4154796/?ref_=adv_li_tt,Avengers: Endgame,8.4,,,,
+https://www.imdb.com/title/tt4154756/?ref_=adv_li_tt,Avengers: Infinity War,8.4,,,,
+https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt,Top Gun: Maverick,8.4,,,,
+https://www.imdb.com/title/tt1345836/?ref_=adv_li_tt,The Dark Knight Rises,8.4,,,,
+https://www.imdb.com/title/tt10698680/?ref_=adv_li_tt,K.G.F: Chapter 2,8.4,,,,
+https://www.imdb.com/title/tt10295212/?ref_=adv_li_tt,Shershaah,8.4,,,,
+https://www.imdb.com/title/tt0364569/?ref_=adv_li_tt,Oldboy,8.4,,,,
+https://www.imdb.com/title/tt5074352/?ref_=adv_li_tt,Dangal,8.3,,,,
+https://www.imdb.com/title/tt13664684/?ref_=adv_li_tt,Karthikeya 2,8.3,,,,
+https://www.imdb.com/title/tt10872600/?ref_=adv_li_tt,Spider-Man: No Way Home,8.3,,,,
+https://www.imdb.com/title/tt8579674/?ref_=adv_li_tt,1917,8.2,,,,
+https://www.imdb.com/title/tt8291224/?ref_=adv_li_tt,Uri: The Surgical Strike,8.2,,,,
+https://www.imdb.com/title/tt7838252/?ref_=adv_li_tt,K.G.F: Chapter 1,8.2,,,,
+https://www.imdb.com/title/tt5813916/?ref_=adv_li_tt,The Mountain II,8.2,,,,
+https://www.imdb.com/title/tt4849438/?ref_=adv_li_tt,Baahubali 2: The Conclusion,8.2,,,,
+https://www.imdb.com/title/tt1954470/?ref_=adv_li_tt,Gangs of Wasseypur,8.2,,,,
+https://www.imdb.com/title/tt1291584/?ref_=adv_li_tt,Warrior,8.2,,,,
+https://www.imdb.com/title/tt11032374/?ref_=adv_li_tt,Demon Slayer the Movie: Mugen Train,8.2,,,,
+https://www.imdb.com/title/tt0434409/?ref_=adv_li_tt,V for Vendetta,8.2,,,,
+https://www.imdb.com/title/tt0372784/?ref_=adv_li_tt,Batman Begins,8.2,,,,
+https://www.imdb.com/title/tt0266697/?ref_=adv_li_tt,Kill Bill: Vol. 1,8.2,,,,
+https://www.imdb.com/title/tt6710474/?ref_=adv_li_tt,Everything Everywhere All at Once,8.1,,,,
+https://www.imdb.com/title/tt3863552/?ref_=adv_li_tt,Bajrangi Bhaijaan,8.1,,,,
+https://www.imdb.com/title/tt3315342/?ref_=adv_li_tt,Logan,8.1,,,,
+https://www.imdb.com/title/tt1979320/?ref_=adv_li_tt,Rush,8.1,,,,
+https://www.imdb.com/title/tt1950186/?ref_=adv_li_tt,Ford v Ferrari,8.1,,,,
+https://www.imdb.com/title/tt1392190/?ref_=adv_li_tt,Mad Max: Fury Road,8.1,,,,
+https://www.imdb.com/title/tt1280558/?ref_=adv_li_tt,A Wednesday,8.1,,,,
+https://www.imdb.com/title/tt0892769/?ref_=adv_li_tt,How to Train Your Dragon,8.1,,,,
+https://www.imdb.com/title/tt0325980/?ref_=adv_li_tt,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,,,,
+https://www.imdb.com/title/tt8178634/?ref_=adv_li_tt,RRR,8.0,,,,
+https://www.imdb.com/title/tt3390572/?ref_=adv_li_tt,Haider,8.0,,,,
+https://www.imdb.com/title/tt2631186/?ref_=adv_li_tt,Baahubali: The Beginning,8.0,,,,
+https://www.imdb.com/title/tt2015381/?ref_=adv_li_tt,Guardians of the Galaxy,8.0,,,,
+https://www.imdb.com/title/tt1856101/?ref_=adv_li_tt,Blade Runner 2049,8.0,,,,
+https://www.imdb.com/title/tt1663202/?ref_=adv_li_tt,The Revenant,8.0,,,,
+https://www.imdb.com/title/tt1555149/?ref_=adv_li_tt,Elite Squad 2: The Enemy Within,8.0,,,,
+https://www.imdb.com/title/tt1431045/?ref_=adv_li_tt,Deadpool,8.0,,,,
+https://www.imdb.com/title/tt12361974/?ref_=adv_li_tt,Zack Snyder's Justice League,8.0,,,,
+https://www.imdb.com/title/tt1220719/?ref_=adv_li_tt,Ip Man,8.0,,,,
+https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt,Dune,8.0,,,,
+https://www.imdb.com/title/tt0861739/?ref_=adv_li_tt,Elite Squad,8.0,,,,
+https://www.imdb.com/title/tt0848228/?ref_=adv_li_tt,The Avengers,8.0,,,,
+https://www.imdb.com/title/tt0440963/?ref_=adv_li_tt,The Bourne Ultimatum,8.0,,,,
