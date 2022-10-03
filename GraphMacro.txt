@@ -1,0 +1,35 @@
+Sub PlotGraph()
+'
+' PlotGraph Macro
+'
+
+'
+    Range("G1:G25").Select
+    ActiveSheet.Shapes.AddChart2(240, xlXYScatter).Select
+    ActiveChart.SetSourceData Source:=Range("Sheet1!$G$1:$G$25")
+    ActiveChart.ChartTitle.Select
+    ActiveChart.ChartTitle.Text = "Budget to Ranking"
+    Selection.Format.TextFrame2.TextRange.Characters.Text = "Budget to Ranking"
+    With Selection.Format.TextFrame2.TextRange.Characters(1, 17).ParagraphFormat
+        .TextDirection = msoTextDirectionLeftToRight
+        .Alignment = msoAlignCenter
+    End With
+    With Selection.Format.TextFrame2.TextRange.Characters(1, 17).Font
+        .BaselineOffset = 0
+        .Bold = msoFalse
+        .NameComplexScript = "+mn-cs"
+        .NameFarEast = "+mn-ea"
+        .Fill.Visible = msoTrue
+        .Fill.ForeColor.RGB = RGB(89, 89, 89)
+        .Fill.Transparency = 0
+        .Fill.Solid
+        .Size = 14
+        .Italic = msoFalse
+        .Kerning = 12
+        .Name = "+mn-lt"
+        .UnderlineStyle = msoNoUnderline
+        .Spacing = 0
+        .Strike = msoNoStrike
+    End With
+    Range("L10").Select
+End Sub
