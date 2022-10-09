@@ -2,6 +2,25 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.6.1": {
+<<<<<<< HEAD
+      "BalaReva.Excel.Activities/2021.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1000",
+          "MicrosoftOfficeCore": "15.0.0"
+        },
+        "compile": {
+          "lib/_._": {}
+        },
+        "runtime": {
+          "lib/BalaReva.Excel.Base.dll": {},
+          "lib/BalaReva.Excel.Design.dll": {},
+          "lib/BalaReva.Excel.Utilities.dll": {},
+          "lib/BalaReva.Excel.dll": {}
+        }
+      },
+=======
+>>>>>>> main
       "ClosedXML/0.87.1": {
         "type": "package",
         "dependencies": {
@@ -41,7 +60,13 @@
         "dependencies": {
           "Google.Apis.Core": "1.55.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net45/_._": {}
         },
@@ -56,7 +81,13 @@
           "Google.Apis": "1.55.0",
           "Google.Apis.Core": "1.55.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -83,7 +114,13 @@
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net45/_._": {}
         },
@@ -277,7 +314,14 @@
           "Microsoft.Rest.ClientRuntime.Azure": "[3.3.18, 4.0.0)",
           "Newtonsoft.Json": "10.0.3"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net",
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net", "System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -290,7 +334,13 @@
         "dependencies": {
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net461/_._": {}
         },
@@ -471,7 +521,13 @@
       },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -549,7 +605,15 @@
       },
       "Microsoft.Extensions.FileSystemGlobbing/5.0.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -637,7 +701,13 @@
           "Microsoft.Web.WebView2": "1.0.864.35",
           "Microsoft.Windows.SDK.Contracts": "10.0.17763.1000"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+=======
         "frameworkAssemblies": ["System.Windows.Forms"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -650,7 +720,13 @@
         "dependencies": {
           "Microsoft.IdentityModel.Tokens": "6.12.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -660,7 +736,14 @@
       },
       "Microsoft.IdentityModel.Logging/6.12.2": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp", "System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -673,7 +756,15 @@
         "dependencies": {
           "Microsoft.IdentityModel.Logging": "6.12.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp", "System", "System.Core"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -681,6 +772,18 @@
           "lib/net461/Microsoft.IdentityModel.Tokens.dll": {}
         }
       },
+<<<<<<< HEAD
+      "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+=======
+>>>>>>> main
       "Microsoft.Rest.ClientRuntime/2.3.21": {
         "type": "package",
         "dependencies": {
@@ -715,7 +818,13 @@
       },
       "Microsoft.VisualBasic/10.3.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.VisualBasic"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.VisualBasic"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -765,6 +874,18 @@
           "build/_._": {}
         }
       },
+<<<<<<< HEAD
+      "MicrosoftOfficeCore/15.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net35/_._": {}
+        },
+        "runtime": {
+          "lib/net35/Office.dll": {}
+        }
+      },
+=======
+>>>>>>> main
       "MimeKit/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -966,7 +1087,13 @@
       },
       "System.Buffers/4.5.1": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -979,7 +1106,15 @@
         "dependencies": {
           "System.Memory": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1006,7 +1141,13 @@
           "Microsoft.IdentityModel.JsonWebTokens": "6.12.2",
           "Microsoft.IdentityModel.Tokens": "6.12.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1016,7 +1157,14 @@
       },
       "System.IO.Abstractions/3.0.10": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp", "System"],
+>>>>>>> main
         "compile": {
           "lib/net40/_._": {}
         },
@@ -1054,7 +1202,14 @@
           "System.Numerics.Vectors": "4.5.0",
           "System.Runtime.CompilerServices.Unsafe": "4.5.3"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1064,7 +1219,14 @@
       },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Numerics",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System.Numerics", "mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net46/_._": {}
         },
@@ -1077,7 +1239,15 @@
         "dependencies": {
           "System.Collections.Immutable": "5.0.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1087,7 +1257,13 @@
       },
       "System.Runtime.Caching/5.0.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Runtime.Caching"
+        ],
+=======
         "frameworkAssemblies": ["System.Runtime.Caching"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -1103,7 +1279,13 @@
       },
       "System.Runtime.CompilerServices.Unsafe/4.7.1": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net461/_._": {}
         },
@@ -1161,7 +1343,14 @@
         "dependencies": {
           "System.Memory": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1181,7 +1370,15 @@
           "System.Threading.Tasks.Extensions": "4.5.4",
           "System.ValueTuple": "4.5.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1194,7 +1391,13 @@
         "dependencies": {
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1204,7 +1407,15 @@
       },
       "System.Threading.Tasks.Dataflow/5.0.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1217,7 +1428,13 @@
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "4.5.3"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1227,7 +1444,14 @@
       },
       "System.ValueTuple/4.5.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net461/_._": {}
         },
@@ -1252,7 +1476,14 @@
         "dependencies": {
           "Newtonsoft.Json": "11.0.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Activities",
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Activities", "System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1636,7 +1867,13 @@
       },
       "UiPath.OCR.Contracts/2.11.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Activities"
+        ],
+=======
         "frameworkAssemblies": ["System.Activities"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -1651,7 +1888,13 @@
           "System.IO.Abstractions": "3.0.10",
           "System.ValueTuple": "4.5.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Activities"
+        ],
+=======
         "frameworkAssemblies": ["System.Activities"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2151,6 +2394,25 @@
       }
     },
     ".NETFramework,Version=v4.6.1/win10-x64": {
+<<<<<<< HEAD
+      "BalaReva.Excel.Activities/2021.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1000",
+          "MicrosoftOfficeCore": "15.0.0"
+        },
+        "compile": {
+          "lib/_._": {}
+        },
+        "runtime": {
+          "lib/BalaReva.Excel.Base.dll": {},
+          "lib/BalaReva.Excel.Design.dll": {},
+          "lib/BalaReva.Excel.Utilities.dll": {},
+          "lib/BalaReva.Excel.dll": {}
+        }
+      },
+=======
+>>>>>>> main
       "ClosedXML/0.87.1": {
         "type": "package",
         "dependencies": {
@@ -2190,7 +2452,13 @@
         "dependencies": {
           "Google.Apis.Core": "1.55.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net45/_._": {}
         },
@@ -2205,7 +2473,13 @@
           "Google.Apis": "1.55.0",
           "Google.Apis.Core": "1.55.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2232,7 +2506,13 @@
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net45/_._": {}
         },
@@ -2426,7 +2706,14 @@
           "Microsoft.Rest.ClientRuntime.Azure": "[3.3.18, 4.0.0)",
           "Newtonsoft.Json": "10.0.3"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Net",
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Net", "System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2439,7 +2726,13 @@
         "dependencies": {
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net461/_._": {}
         },
@@ -2620,7 +2913,13 @@
       },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -2698,7 +2997,15 @@
       },
       "Microsoft.Extensions.FileSystemGlobbing/5.0.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2786,7 +3093,13 @@
           "Microsoft.Web.WebView2": "1.0.864.35",
           "Microsoft.Windows.SDK.Contracts": "10.0.17763.1000"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+=======
         "frameworkAssemblies": ["System.Windows.Forms"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2799,7 +3112,13 @@
         "dependencies": {
           "Microsoft.IdentityModel.Tokens": "6.12.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2809,7 +3128,14 @@
       },
       "Microsoft.IdentityModel.Logging/6.12.2": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp", "System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2822,7 +3148,15 @@
         "dependencies": {
           "Microsoft.IdentityModel.Logging": "6.12.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp", "System", "System.Core"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -2830,6 +3164,18 @@
           "lib/net461/Microsoft.IdentityModel.Tokens.dll": {}
         }
       },
+<<<<<<< HEAD
+      "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+=======
+>>>>>>> main
       "Microsoft.Rest.ClientRuntime/2.3.21": {
         "type": "package",
         "dependencies": {
@@ -2864,7 +3210,13 @@
       },
       "Microsoft.VisualBasic/10.3.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.VisualBasic"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.VisualBasic"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -2911,6 +3263,18 @@
           "build/_._": {}
         }
       },
+<<<<<<< HEAD
+      "MicrosoftOfficeCore/15.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net35/_._": {}
+        },
+        "runtime": {
+          "lib/net35/Office.dll": {}
+        }
+      },
+=======
+>>>>>>> main
       "MimeKit/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -3112,7 +3476,13 @@
       },
       "System.Buffers/4.5.1": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -3125,7 +3495,15 @@
         "dependencies": {
           "System.Memory": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3152,7 +3530,13 @@
           "Microsoft.IdentityModel.JsonWebTokens": "6.12.2",
           "Microsoft.IdentityModel.Tokens": "6.12.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3162,7 +3546,14 @@
       },
       "System.IO.Abstractions/3.0.10": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System"
+        ],
+=======
         "frameworkAssemblies": ["Microsoft.CSharp", "System"],
+>>>>>>> main
         "compile": {
           "lib/net40/_._": {}
         },
@@ -3200,7 +3591,14 @@
           "System.Numerics.Vectors": "4.5.0",
           "System.Runtime.CompilerServices.Unsafe": "4.5.3"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3210,7 +3608,14 @@
       },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Numerics",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System.Numerics", "mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net46/_._": {}
         },
@@ -3223,7 +3628,15 @@
         "dependencies": {
           "System.Collections.Immutable": "5.0.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3233,7 +3646,13 @@
       },
       "System.Runtime.Caching/5.0.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Runtime.Caching"
+        ],
+=======
         "frameworkAssemblies": ["System.Runtime.Caching"],
+>>>>>>> main
         "compile": {
           "ref/net45/_._": {}
         },
@@ -3243,7 +3662,13 @@
       },
       "System.Runtime.CompilerServices.Unsafe/4.7.1": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net461/_._": {}
         },
@@ -3295,7 +3720,14 @@
         "dependencies": {
           "System.Memory": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3315,7 +3747,15 @@
           "System.Threading.Tasks.Extensions": "4.5.4",
           "System.ValueTuple": "4.5.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3328,7 +3768,13 @@
         "dependencies": {
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3338,7 +3784,15 @@
       },
       "System.Threading.Tasks.Dataflow/5.0.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "System.Core", "mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3351,7 +3805,13 @@
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "4.5.3"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["mscorlib"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3361,7 +3821,14 @@
       },
       "System.ValueTuple/4.5.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+=======
         "frameworkAssemblies": ["System", "mscorlib"],
+>>>>>>> main
         "compile": {
           "ref/net461/_._": {}
         },
@@ -3386,7 +3853,14 @@
         "dependencies": {
           "Newtonsoft.Json": "11.0.2"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Activities",
+          "System.Net.Http"
+        ],
+=======
         "frameworkAssemblies": ["System.Activities", "System.Net.Http"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3770,7 +4244,13 @@
       },
       "UiPath.OCR.Contracts/2.11.0": {
         "type": "package",
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Activities"
+        ],
+=======
         "frameworkAssemblies": ["System.Activities"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -3785,7 +4265,13 @@
           "System.IO.Abstractions": "3.0.10",
           "System.ValueTuple": "4.5.0"
         },
+<<<<<<< HEAD
+        "frameworkAssemblies": [
+          "System.Activities"
+        ],
+=======
         "frameworkAssemblies": ["System.Activities"],
+>>>>>>> main
         "compile": {
           "lib/net461/_._": {}
         },
@@ -4286,6 +4772,23 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
+    "BalaReva.Excel.Activities/2021.0.0": {
+      "sha512": "wNt9V2K11KZ6L7HPF+IP7sU+qidduP4VVZycJA188jR5klcTDHzWUKCE94Hs5x7Uhj+iaw89W6chXxl6Qqg22g==",
+      "type": "package",
+      "path": "balareva.excel.activities/2021.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "balareva.excel.activities.2021.0.0.nupkg.sha512",
+        "balareva.excel.activities.nuspec",
+        "lib/BalaReva.Excel.Base.dll",
+        "lib/BalaReva.Excel.Design.dll",
+        "lib/BalaReva.Excel.Utilities.dll",
+        "lib/BalaReva.Excel.dll"
+      ]
+    },
+=======
+>>>>>>> main
     "ClosedXML/0.87.1": {
       "sha512": "2LC0T8bu2G2kt34C4Ig87uZfrRO4MwMVI54e2To7m3DvwAs2Z2Ir86WQuUoW8Txo1uNGSfmu3DpfpQhSX0bIww==",
       "type": "package",
@@ -5371,6 +5874,21 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
+<<<<<<< HEAD
+    "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+      "sha512": "DfceS96ustwfL8EOJNNRtpk6b0RylhjNpgeeemuvi9X4GYks2UTeAimjSrdFEfuqRo5ibZ4Sd0gJIeDr9gMa6Q==",
+      "type": "package",
+      "path": "microsoft.office.interop.excel/15.0.4795.1000",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512",
+        "microsoft.office.interop.excel.nuspec"
+      ]
+    },
+=======
+>>>>>>> main
     "Microsoft.Rest.ClientRuntime/2.3.21": {
       "sha512": "KDYlgTyO693V6pi6SGk9eg+dDvKjuOgmkapbHdpnB1SmTPKpvWxVLIMyARJsCFLfB6axyURUJHOfvxBQ0yJKeg==",
       "type": "package",
@@ -5696,6 +6214,21 @@
         "ref/netstandard2.0/windows.winmd"
       ]
     },
+<<<<<<< HEAD
+    "MicrosoftOfficeCore/15.0.0": {
+      "sha512": "/KgYw8uvv0Ut8FPvyEa1XJ/TrLSRgvTv3JgC2IT0/8NwoICzbEJWfmfwsE6Dwi8WH0jVkTEO7zRvGvaKqUOhqQ==",
+      "type": "package",
+      "path": "microsoftofficecore/15.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Office.dll",
+        "microsoftofficecore.15.0.0.nupkg.sha512",
+        "microsoftofficecore.nuspec"
+      ]
+    },
+=======
+>>>>>>> main
     "MimeKit/3.1.1": {
       "sha512": "aY2fuCucJ0S5gWeak8o7aSZXm19Vr/rJj746+RlvUrPKzUESDyXKLoxqW6rs7z4DA0qJ1AQxEAO2MnWxZncLGA==",
       "type": "package",
@@ -8250,6 +8783,10 @@
   "projectFileDependencyGroups": {
     "": [],
     ".NETFramework,Version=v4.6.1": [
+<<<<<<< HEAD
+      "BalaReva.Excel.Activities >= 2021.0.0 <= 2021.0.0",
+=======
+>>>>>>> main
       "UiPath.Excel.Activities >= 2.12.3 <= 2.12.3",
       "UiPath.Mail.Activities >= 1.15.2 <= 1.15.2",
       "UiPath.System.Activities >= 22.4.4 <= 22.4.4",
@@ -8257,19 +8794,37 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\GGPC\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\User\\.nuget\\packages\\": {}
+>>>>>>> main
   },
   "project": {
     "restore": {
       "projectUniqueName": "Infosys300.SoftEng762",
       "projectName": "Infosys300.SoftEng762",
+<<<<<<< HEAD
+      "projectPath": "C:\\Users\\GGPC\\Documents\\UniWork\\SOFTENG762\\Movie-Stats\\.local",
+      "packagesPath": "C:\\Users\\GGPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GGPC\\Documents\\UniWork\\SOFTENG762\\Movie-Stats\\.local"
+=======
       "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Movie-Stats\\.local",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Movie-Stats\\.local"
+>>>>>>> main
     },
     "frameworks": {
       "net461": {
         "dependencies": {
+<<<<<<< HEAD
+          "BalaReva.Excel.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[2021.0.0, 2021.0.0]"
+          },
+=======
+>>>>>>> main
           "UiPath.Excel.Activities": {
             "include": "Runtime",
             "target": "Package",
@@ -8291,7 +8846,11 @@
             "version": "[22.4.7, 22.4.7]"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Users\\GGPC\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Users\\User\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+>>>>>>> main
       }
     },
     "runtimes": {
@@ -8300,4 +8859,8 @@
       }
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> main

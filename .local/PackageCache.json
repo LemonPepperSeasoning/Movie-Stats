@@ -6,6 +6,33 @@
         "Version": "2.12.3"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.visualstudio.ole.interop/16.7.30328.74\\lib/net45/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json/13.0.1\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi/2.5.5\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi/2.5.5\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi/2.5.5\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi/2.5.5\\lib/net45/NPOI.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\portable.bouncycastle/1.9.0\\lib/net40/BouncyCastle.Crypto.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\sharpziplib/1.3.3\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities/2.12.3\\lib/net461/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities/2.12.3\\lib/net461/Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities/2.12.3\\lib/net461/Office.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities/2.12.3\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities/2.12.3\\lib/net461/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities/2.12.3\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities/2.12.3\\lib/net461/UiPath.Excel.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.platform/22.4.1\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3"
+=======
         "C:\\Users\\User\\.nuget\\packages\\closedxml\\0.87.1\\lib/net40/ClosedXML.dll",
         "C:\\Users\\User\\.nuget\\packages\\csvhelper\\16.0.0\\lib/net45/CsvHelper.dll",
         "C:\\Users\\User\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib/DocumentFormat.OpenXml.dll",
@@ -31,6 +58,7 @@
         "C:\\Users\\User\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.excel.activities\\2.12.3"
+>>>>>>> main
     },
     {
       "Package": {
@@ -38,6 +66,64 @@
         "Version": "1.15.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis/1.55.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis/1.55.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.auth/1.55.0\\lib/net461/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.auth/1.55.0\\lib/net461/Google.Apis.Auth.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.calendar.v3/1.55.0.2554\\lib/net45/Google.Apis.Calendar.v3.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.core/1.55.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.gmail.v1/1.55.0.2510\\lib/net45/Google.Apis.Gmail.v1.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.peopleservice.v1/1.55.0.2567\\lib/net45/Google.Apis.PeopleService.v1.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\htmlagilitypack/1.11.38\\lib/Net45/HtmlAgilityPack.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\mailkit/3.1.1\\lib/net46/MailKit.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.filesystemglobbing/5.0.0\\lib/net461/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identity.client/4.35.1\\lib/net461/Microsoft.Identity.Client.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identity.client.desktop/4.35.1\\lib/net461/Microsoft.Identity.Client.Desktop.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens/6.12.2\\lib/net461/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.logging/6.12.2\\lib/net461/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.tokens/6.12.2\\lib/net461/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.web.webview2/1.0.864.35\\lib/net45/Microsoft.Web.WebView2.Core.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.web.webview2/1.0.864.35\\lib/net45/Microsoft.Web.WebView2.WinForms.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.web.webview2/1.0.864.35\\lib/net45/Microsoft.Web.WebView2.Wpf.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\mimekit/3.1.1\\lib/net46/MimeKit.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json/13.0.1\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.context/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Context.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.coordination/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Coordination.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.interop.waithandles/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Interop.WaitHandles.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.oop/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Oop.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.tasks/5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Tasks.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.cancellation/1.1.0\\lib/netstandard2.0/Nito.Cancellation.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.collections.deque/1.1.0\\lib/netstandard2.0/Nito.Collections.Deque.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.disposables/2.2.0\\lib/net461/Nito.Disposables.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\portable.bouncycastle/1.9.0\\lib/net40/BouncyCastle.Crypto.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.collections.immutable/5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.identitymodel.tokens.jwt/6.12.2\\lib/net461/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.activities.runtimegovernance/1.1.3\\lib/net461/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.connectionclient/1.3.0\\lib/net461/ConnectionClient.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/Interop.Domino.UiPath.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/Microsoft.Office.Interop.Outlook.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/Microsoft.Office.Interop.Word.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/Office.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/UiPath.Mail.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities/1.15.2\\lib/net461/UiPath.MainSessionServer.Shared.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.platform/22.4.1\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2"
+=======
         "C:\\Users\\User\\.nuget\\packages\\google.apis\\1.55.0\\lib/net45/Google.Apis.PlatformServices.dll",
         "C:\\Users\\User\\.nuget\\packages\\google.apis\\1.55.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\User\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/net461/Google.Apis.Auth.PlatformServices.dll",
@@ -94,6 +180,7 @@
         "C:\\Users\\User\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.mail.activities\\1.15.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -101,6 +188,58 @@
         "Version": "22.4.4"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Connections.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Client.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.features/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/1.1.1\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.common/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.csharp/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.visualbasic/3.8.0\\lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration.binder/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection/3.1.6\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.logging/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.logging.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.options/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.primitives/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json/13.0.1\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\sharpziplib/1.3.3\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.collections.immutable/5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.componentmodel.annotations/4.7.0\\lib/net461/System.ComponentModel.Annotations.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.io.pipelines/4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.management.automation/6.1.7601.17515\\lib/net45/System.Management.Automation.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.reflection.metadata/5.0.0\\lib/net461/System.Reflection.Metadata.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.text.encoding.codepages/4.5.1\\runtimes/win/lib/net461/System.Text.Encoding.CodePages.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.text.encodings.web/4.7.1\\lib/net461/System.Text.Encodings.Web.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.text.json/4.7.2\\lib/net461/System.Text.Json.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.channels/4.7.1\\lib/net461/System.Threading.Channels.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.platform/22.4.1\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities/22.4.4\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities/22.4.4\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities/22.4.4\\lib/net461/UiPath.System.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities\\22.4.4"
+=======
         "C:\\Users\\User\\.nuget\\packages\\csvhelper\\16.0.0\\lib/net45/CsvHelper.dll",
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Connections.Abstractions.dll",
@@ -151,6 +290,7 @@
         "C:\\Users\\User\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.system.activities\\22.4.4"
+>>>>>>> main
     },
     {
       "Package": {
@@ -158,6 +298,64 @@
         "Version": "22.4.7"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision/7.0.1\\lib/net461/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.rest.clientruntime.azure/3.3.18\\lib/net452/Microsoft.Rest.ClientRuntime.Azure.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json/13.0.1\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\nlog/4.5.11\\lib/net45/NLog.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.collections.immutable/5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath/22.4.42.61951\\lib/net45/UiPath.Interop.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.activities.runtimegovernance/1.1.3\\lib/net461/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.imageprocessing/22.4.1\\lib/net461/UiPath.ImageProcessingInterop.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.activities/3.6.2\\lib/net461/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.activities/3.6.2\\lib/net461/UiPath.OCR.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.activities/3.6.2\\lib/net461/UiPath.OCR.Core.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.contracts/2.11.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.platform/22.4.1\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities/22.4.7\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision/3.3.0\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision/3.3.0\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision/3.3.0\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision/3.3.0\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision/3.3.0\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision/3.3.0\\lib/net461/UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7"
+    },
+    {
+      "Package": {
+        "Id": "BalaReva.Excel.Activities",
+        "Version": "2021.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.Base.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities/2021.0.0\\lib/BalaReva.Excel.Utilities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities\\2021.0.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/net461/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
         "C:\\Users\\User\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
         "C:\\Users\\User\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/net452/Microsoft.Rest.ClientRuntime.Azure.dll",
@@ -199,10 +397,28 @@
         "C:\\Users\\User\\.nuget\\packages\\uipath.vision\\3.3.0\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7"
+>>>>>>> main
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+<<<<<<< HEAD
+    "BalaReva.Excel.Activities": {
+      "Id": "BalaReva.Excel.Activities",
+      "Version": "2021.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Office.Interop.Excel",
+          "Item2": "[15.0.4795.1000, )"
+        },
+        {
+          "Item1": "MicrosoftOfficeCore",
+          "Item2": "[15.0.0, )"
+        }
+      ]
+    },
+=======
+>>>>>>> main
     "ClosedXML": {
       "Id": "ClosedXML",
       "Version": "0.87.1",
@@ -727,6 +943,14 @@
         }
       ]
     },
+<<<<<<< HEAD
+    "Microsoft.Office.Interop.Excel": {
+      "Id": "Microsoft.Office.Interop.Excel",
+      "Version": "15.0.4795.1000",
+      "Dependencies": []
+    },
+=======
+>>>>>>> main
     "Microsoft.Rest.ClientRuntime": {
       "Id": "Microsoft.Rest.ClientRuntime",
       "Version": "2.3.21",
@@ -780,6 +1004,14 @@
         }
       ]
     },
+<<<<<<< HEAD
+    "MicrosoftOfficeCore": {
+      "Id": "MicrosoftOfficeCore",
+      "Version": "15.0.0",
+      "Dependencies": []
+    },
+=======
+>>>>>>> main
     "MimeKit": {
       "Id": "MimeKit",
       "Version": "3.1.1",
@@ -1497,13 +1729,35 @@
   "AllPackages": [
     {
       "Package": {
+<<<<<<< HEAD
+        "Id": "BalaReva.Excel.Activities",
+        "Version": "2021.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.Base.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities\\2021.0.0\\lib\\BalaReva.Excel.Utilities.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\balareva.excel.activities\\2021.0.0"
+    },
+    {
+      "Package": {
+=======
+>>>>>>> main
         "Id": "ClosedXML",
         "Version": "0.87.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\closedxml\\0.87.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\closedxml\\0.87.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1511,9 +1765,15 @@
         "Version": "16.0.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\csvhelper\\16.0.0\\lib\\net45\\CsvHelper.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\csvhelper\\16.0.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\csvhelper\\16.0.0\\lib\\net45\\CsvHelper.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\csvhelper\\16.0.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1521,9 +1781,15 @@
         "Version": "2.5.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1531,10 +1797,17 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\google.apis\\1.55.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
         "C:\\Users\\User\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\google.apis\\1.55.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1542,10 +1815,17 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.auth\\1.55.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.PlatformServices.dll",
         "C:\\Users\\User\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\google.apis.auth\\1.55.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1553,9 +1833,15 @@
         "Version": "1.55.0.2554"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib\\net45\\Google.Apis.Calendar.v3.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554"
+=======
         "C:\\Users\\User\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib\\net45\\Google.Apis.Calendar.v3.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1563,9 +1849,15 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.core\\1.55.0\\lib\\net45\\Google.Apis.Core.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.core\\1.55.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\google.apis.core\\1.55.0\\lib\\net45\\Google.Apis.Core.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\google.apis.core\\1.55.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1573,9 +1865,15 @@
         "Version": "1.55.0.2510"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib\\net45\\Google.Apis.Gmail.v1.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510"
+=======
         "C:\\Users\\User\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib\\net45\\Google.Apis.Gmail.v1.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1583,9 +1881,15 @@
         "Version": "1.55.0.2567"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib\\net45\\Google.Apis.PeopleService.v1.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567"
+=======
         "C:\\Users\\User\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib\\net45\\Google.Apis.PeopleService.v1.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1593,9 +1897,15 @@
         "Version": "1.11.38"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib\\Net45\\HtmlAgilityPack.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\htmlagilitypack\\1.11.38"
+=======
         "C:\\Users\\User\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib\\Net45\\HtmlAgilityPack.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\htmlagilitypack\\1.11.38"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1603,9 +1913,15 @@
         "Version": "3.1.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\mailkit\\3.1.1\\lib\\net46\\MailKit.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\mailkit\\3.1.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\mailkit\\3.1.1\\lib\\net46\\MailKit.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\mailkit\\3.1.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1613,9 +1929,15 @@
         "Version": "2.4.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1623,9 +1945,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Connections.Abstractions.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Connections.Abstractions.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1633,9 +1961,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Client.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Client.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1643,9 +1977,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Common.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Connections.Common.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1653,9 +1993,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Features.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Features.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1663,9 +2009,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1673,9 +2025,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1683,9 +2041,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Common.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Common.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1693,9 +2057,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1703,9 +2073,15 @@
         "Version": "7.0.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib\\net461\\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib\\net461\\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1713,9 +2089,15 @@
         "Version": "1.1.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib\\net461\\Microsoft.Bcl.AsyncInterfaces.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib\\net461\\Microsoft.Bcl.AsyncInterfaces.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1723,7 +2105,11 @@
         "Version": "3.0.0"
       },
       "Assemblies": [],
+<<<<<<< HEAD
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0"
+=======
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1731,9 +2117,15 @@
         "Version": "3.8.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1741,9 +2133,15 @@
         "Version": "3.8.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.CSharp.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.CSharp.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1751,9 +2149,15 @@
         "Version": "3.8.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.VisualBasic.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0\\lib\\netstandard2.0\\Microsoft.CodeAnalysis.VisualBasic.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1761,9 +2165,15 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\lib\\net45\\_._"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.csharp\\4.7.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\lib\\net45\\_._"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1771,10 +2181,17 @@
         "Version": "2.2.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
         "C:\\Users\\User\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1782,9 +2199,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1792,9 +2215,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1802,9 +2231,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Binder.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Binder.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1812,9 +2247,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\net461\\Microsoft.Extensions.DependencyInjection.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\net461\\Microsoft.Extensions.DependencyInjection.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1822,9 +2263,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1832,9 +2279,15 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib\\net461\\Microsoft.Extensions.FileSystemGlobbing.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib\\net461\\Microsoft.Extensions.FileSystemGlobbing.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1842,9 +2295,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1852,9 +2311,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1862,9 +2327,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Options.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.options\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Options.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1872,9 +2343,15 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Primitives.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1882,9 +2359,15 @@
         "Version": "4.35.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib\\net461\\Microsoft.Identity.Client.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identity.client\\4.35.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib\\net461\\Microsoft.Identity.Client.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.identity.client\\4.35.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1892,9 +2375,15 @@
         "Version": "4.35.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identity.client.desktop\\4.35.1\\lib\\net461\\Microsoft.Identity.Client.Desktop.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identity.client.desktop\\4.35.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.identity.client.desktop\\4.35.1\\lib\\net461\\Microsoft.Identity.Client.Desktop.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.identity.client.desktop\\4.35.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1902,9 +2391,15 @@
         "Version": "6.12.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib\\net461\\Microsoft.IdentityModel.JsonWebTokens.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib\\net461\\Microsoft.IdentityModel.JsonWebTokens.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1912,9 +2407,15 @@
         "Version": "6.12.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib\\net461\\Microsoft.IdentityModel.Logging.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib\\net461\\Microsoft.IdentityModel.Logging.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1922,9 +2423,25 @@
         "Version": "6.12.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib\\net461\\Microsoft.IdentityModel.Tokens.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Office.Interop.Excel",
+        "Version": "15.0.4795.1000"
+      },
+      "Assemblies": [
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\lib\\net20\\Microsoft.Office.Interop.Excel.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib\\net461\\Microsoft.IdentityModel.Tokens.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1932,9 +2449,15 @@
         "Version": "2.3.21"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1942,9 +2465,15 @@
         "Version": "3.3.18"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib\\net452\\Microsoft.Rest.ClientRuntime.Azure.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib\\net452\\Microsoft.Rest.ClientRuntime.Azure.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1952,9 +2481,15 @@
         "Version": "10.3.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\lib\\net45\\_._"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.visualbasic\\10.3.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\lib\\net45\\_._"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.visualbasic\\10.3.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1962,9 +2497,15 @@
         "Version": "16.7.30328.74"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib\\net45\\Microsoft.VisualStudio.OLE.Interop.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib\\net45\\Microsoft.VisualStudio.OLE.Interop.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1972,11 +2513,19 @@
         "Version": "1.0.864.35"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib\\net45\\Microsoft.Web.WebView2.Core.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib\\net45\\Microsoft.Web.WebView2.WinForms.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib\\net45\\Microsoft.Web.WebView2.Wpf.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35"
+=======
         "C:\\Users\\User\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib\\net45\\Microsoft.Web.WebView2.Core.dll",
         "C:\\Users\\User\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib\\net45\\Microsoft.Web.WebView2.WinForms.dll",
         "C:\\Users\\User\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib\\net45\\Microsoft.Web.WebView2.Wpf.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1984,7 +2533,21 @@
         "Version": "10.0.17763.1000"
       },
       "Assemblies": [],
+<<<<<<< HEAD
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.17763.1000"
+    },
+    {
+      "Package": {
+        "Id": "MicrosoftOfficeCore",
+        "Version": "15.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\GGPC\\.nuget\\packages\\microsoftofficecore\\15.0.0\\lib\\net35\\Office.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\microsoftofficecore\\15.0.0"
+=======
       "Path": "C:\\Users\\User\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.17763.1000"
+>>>>>>> main
     },
     {
       "Package": {
@@ -1992,9 +2555,15 @@
         "Version": "3.1.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\mimekit\\3.1.1\\lib\\net46\\MimeKit.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\mimekit\\3.1.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\mimekit\\3.1.1\\lib\\net46\\MimeKit.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\mimekit\\3.1.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2002,9 +2571,15 @@
         "Version": "13.0.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\net45\\Newtonsoft.Json.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json\\13.0.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\net45\\Newtonsoft.Json.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2012,7 +2587,11 @@
         "Version": "5.1.0"
       },
       "Assemblies": [],
+<<<<<<< HEAD
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex\\5.1.0"
+=======
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.asyncex\\5.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2020,9 +2599,15 @@
         "Version": "5.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.context\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Context.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.context\\5.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.context\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Context.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.context\\5.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2030,9 +2615,15 @@
         "Version": "5.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Coordination.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Coordination.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2040,9 +2631,15 @@
         "Version": "5.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Interop.WaitHandles.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Interop.WaitHandles.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2050,9 +2647,15 @@
         "Version": "5.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.oop\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Oop.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.oop\\5.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.oop\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Oop.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.oop\\5.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2060,9 +2663,15 @@
         "Version": "5.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Tasks.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\lib\\netstandard2.0\\Nito.AsyncEx.Tasks.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2070,9 +2679,15 @@
         "Version": "1.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.cancellation\\1.1.0\\lib\\netstandard2.0\\Nito.Cancellation.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.cancellation\\1.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.cancellation\\1.1.0\\lib\\netstandard2.0\\Nito.Cancellation.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.cancellation\\1.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2080,9 +2695,15 @@
         "Version": "1.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.collections.deque\\1.1.0\\lib\\netstandard2.0\\Nito.Collections.Deque.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.collections.deque\\1.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.collections.deque\\1.1.0\\lib\\netstandard2.0\\Nito.Collections.Deque.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.collections.deque\\1.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2090,9 +2711,15 @@
         "Version": "2.2.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nito.disposables\\2.2.0\\lib\\net461\\Nito.Disposables.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nito.disposables\\2.2.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nito.disposables\\2.2.0\\lib\\net461\\Nito.Disposables.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nito.disposables\\2.2.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2100,9 +2727,15 @@
         "Version": "4.5.11"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\nlog\\4.5.11\\lib\\net45\\NLog.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\nlog\\4.5.11"
+=======
         "C:\\Users\\User\\.nuget\\packages\\nlog\\4.5.11\\lib\\net45\\NLog.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\nlog\\4.5.11"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2110,12 +2743,21 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\npoi\\2.5.5"
+=======
         "C:\\Users\\User\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OOXML.dll",
         "C:\\Users\\User\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OpenXml4Net.dll",
         "C:\\Users\\User\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OpenXmlFormats.dll",
         "C:\\Users\\User\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\npoi\\2.5.5"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2123,9 +2765,15 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\polly\\7.1.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\polly\\7.1.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2133,9 +2781,15 @@
         "Version": "1.9.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib\\net40\\BouncyCastle.Crypto.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\portable.bouncycastle\\1.9.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib\\net40\\BouncyCastle.Crypto.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\portable.bouncycastle\\1.9.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2143,9 +2797,15 @@
         "Version": "1.3.3"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\sharpziplib\\1.3.3\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\sharpziplib\\1.3.3"
+=======
         "C:\\Users\\User\\.nuget\\packages\\sharpziplib\\1.3.3\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\sharpziplib\\1.3.3"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2153,9 +2813,15 @@
         "Version": "4.5.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.buffers\\4.5.1\\lib\\net461\\System.Buffers.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.buffers\\4.5.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.buffers\\4.5.1\\lib\\net461\\System.Buffers.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.buffers\\4.5.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2163,9 +2829,15 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib\\net461\\System.Collections.Immutable.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.collections.immutable\\5.0.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib\\net461\\System.Collections.Immutable.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.collections.immutable\\5.0.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2173,9 +2845,15 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\lib\\net461\\System.ComponentModel.Annotations.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\lib\\net461\\System.ComponentModel.Annotations.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2183,9 +2861,15 @@
         "Version": "6.12.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib\\net461\\System.IdentityModel.Tokens.Jwt.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib\\net461\\System.IdentityModel.Tokens.Jwt.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2193,9 +2877,15 @@
         "Version": "3.0.10"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2203,9 +2893,15 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib\\netstandard2.0\\System.IO.Pipelines.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.io.pipelines\\4.7.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib\\netstandard2.0\\System.IO.Pipelines.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\4.7.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2213,9 +2909,15 @@
         "Version": "6.1.7601.17515"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.management.automation\\6.1.7601.17515\\lib\\net45\\System.Management.Automation.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.management.automation\\6.1.7601.17515"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.management.automation\\6.1.7601.17515\\lib\\net45\\System.Management.Automation.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.management.automation\\6.1.7601.17515"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2223,9 +2925,15 @@
         "Version": "4.5.4"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.memory\\4.5.4\\lib\\net461\\System.Memory.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.memory\\4.5.4"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.4\\lib\\net461\\System.Memory.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.4"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2233,9 +2941,15 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib\\net46\\System.Numerics.Vectors.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.numerics.vectors\\4.5.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib\\net46\\System.Numerics.Vectors.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2243,9 +2957,15 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\lib\\net461\\System.Reflection.Metadata.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.reflection.metadata\\5.0.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\lib\\net461\\System.Reflection.Metadata.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.reflection.metadata\\5.0.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2253,9 +2973,15 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.caching\\5.0.0\\lib\\net45\\_._"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.caching\\5.0.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.runtime.caching\\5.0.0\\lib\\net45\\_._"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.runtime.caching\\5.0.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2263,9 +2989,15 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\lib\\net461\\System.Runtime.CompilerServices.Unsafe.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\lib\\net461\\System.Runtime.CompilerServices.Unsafe.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2273,9 +3005,15 @@
         "Version": "4.6.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\lib\\net45\\_._"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\lib\\net45\\_._"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2283,9 +3021,15 @@
         "Version": "4.6.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\lib\\net45\\_._"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\lib\\net45\\_._"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2293,9 +3037,15 @@
         "Version": "4.5.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\lib\\net461\\System.Text.Encoding.CodePages.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\lib\\net461\\System.Text.Encoding.CodePages.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2303,9 +3053,15 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\lib\\net461\\System.Text.Encodings.Web.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.text.encodings.web\\4.7.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\lib\\net461\\System.Text.Encodings.Web.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\4.7.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2313,9 +3069,15 @@
         "Version": "4.7.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.text.json\\4.7.2\\lib\\net461\\System.Text.Json.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.text.json\\4.7.2"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.text.json\\4.7.2\\lib\\net461\\System.Text.Json.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.text.json\\4.7.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2323,9 +3085,15 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.channels\\4.7.1\\lib\\net461\\System.Threading.Channels.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.channels\\4.7.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.threading.channels\\4.7.1\\lib\\net461\\System.Threading.Channels.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.threading.channels\\4.7.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2333,9 +3101,15 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib\\net461\\System.Threading.Tasks.Dataflow.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib\\net461\\System.Threading.Tasks.Dataflow.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2343,9 +3117,15 @@
         "Version": "4.5.4"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\lib\\net461\\System.Threading.Tasks.Extensions.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\lib\\net461\\System.Threading.Tasks.Extensions.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2353,9 +3133,15 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\system.valuetuple\\4.5.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\system.valuetuple\\4.5.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2363,9 +3149,15 @@
         "Version": "22.4.42.61951"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath\\22.4.42.61951\\lib\\net45\\UiPath.Interop.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath\\22.4.42.61951"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath\\22.4.42.61951\\lib\\net45\\UiPath.Interop.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath\\22.4.42.61951"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2373,9 +3165,15 @@
         "Version": "1.1.3"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.3\\lib\\net461\\UiPath.Activities.RuntimeGovernance.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.3"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.3\\lib\\net461\\UiPath.Activities.RuntimeGovernance.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.3"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2383,9 +3181,15 @@
         "Version": "1.3.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.connectionclient\\1.3.0\\lib\\net461\\ConnectionClient.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.connectionclient\\1.3.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.connectionclient\\1.3.0\\lib\\net461\\ConnectionClient.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.connectionclient\\1.3.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2393,6 +3197,17 @@
         "Version": "2.12.3"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\Office.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.excel.activities\\2.12.3"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\Microsoft.Office.Interop.Excel.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\Microsoft.Vbe.Interop.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\Office.dll",
@@ -2402,6 +3217,7 @@
         "C:\\Users\\User\\.nuget\\packages\\uipath.excel.activities\\2.12.3\\lib\\net461\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.excel.activities\\2.12.3"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2409,9 +3225,15 @@
         "Version": "22.4.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.imageprocessing\\22.4.1\\lib\\net461\\UiPath.ImageProcessingInterop.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.imageprocessing\\22.4.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.imageprocessing\\22.4.1\\lib\\net461\\UiPath.ImageProcessingInterop.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.imageprocessing\\22.4.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2419,6 +3241,19 @@
         "Version": "1.15.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\Interop.Domino.UiPath.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\Microsoft.Office.Interop.Outlook.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\Microsoft.Office.Interop.Word.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\Office.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\UiPath.Mail.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\UiPath.Mail.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\UiPath.MainSessionServer.Shared.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.mail.activities\\1.15.2"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\Interop.Domino.UiPath.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\Microsoft.Office.Interop.Outlook.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\Microsoft.Office.Interop.Word.dll",
@@ -2430,6 +3265,7 @@
         "C:\\Users\\User\\.nuget\\packages\\uipath.mail.activities\\1.15.2\\lib\\net461\\UiPath.MainSessionServer.Shared.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.mail.activities\\1.15.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2437,11 +3273,19 @@
         "Version": "3.6.2"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.activities\\3.6.2\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.activities\\3.6.2\\lib\\net461\\UiPath.OCR.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.activities\\3.6.2\\lib\\net461\\UiPath.OCR.Core.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.activities\\3.6.2"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.ocr.activities\\3.6.2\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.ocr.activities\\3.6.2\\lib\\net461\\UiPath.OCR.Activities.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.ocr.activities\\3.6.2\\lib\\net461\\UiPath.OCR.Core.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.ocr.activities\\3.6.2"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2449,9 +3293,15 @@
         "Version": "2.11.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.contracts\\2.11.0\\lib\\net461\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.ocr.contracts\\2.11.0"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.ocr.contracts\\2.11.0\\lib\\net461\\UiPath.OCR.Contracts.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.ocr.contracts\\2.11.0"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2459,9 +3309,15 @@
         "Version": "22.4.1"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.platform\\22.4.1\\lib\\net461\\UiPath.Platform.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.platform\\22.4.1"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.platform\\22.4.1\\lib\\net461\\UiPath.Platform.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.platform\\22.4.1"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2469,11 +3325,19 @@
         "Version": "22.4.4"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities\\22.4.4\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities\\22.4.4\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities\\22.4.4\\lib\\net461\\UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.system.activities\\22.4.4"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.system.activities\\22.4.4\\lib\\net461\\UiPath.OrchestratorClient.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.system.activities\\22.4.4\\lib\\net461\\UiPath.System.Activities.Design.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.system.activities\\22.4.4\\lib\\net461\\UiPath.System.Activities.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.system.activities\\22.4.4"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2481,9 +3345,15 @@
         "Version": "1.5.3"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib\\net461\\TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.telemetry.client\\1.5.3"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib\\net461\\TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.telemetry.client\\1.5.3"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2491,6 +3361,20 @@
         "Version": "22.4.7"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.CV.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.CV.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7"
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.CV.Activities.Design.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.CV.Activities.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.CV.dll",
@@ -2503,6 +3387,7 @@
         "C:\\Users\\User\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\lib\\net461\\UiPath.Wizards.dll"
       ],
       "Path": "C:\\Users\\User\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7"
+>>>>>>> main
     },
     {
       "Package": {
@@ -2510,6 +3395,19 @@
         "Version": "3.3.0"
       },
       "Assemblies": [
+<<<<<<< HEAD
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.Core.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\GGPC\\.nuget\\packages\\uipath.vision\\3.3.0"
+    }
+  ]
+}
+=======
         "C:\\Users\\User\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.Core.dll",
         "C:\\Users\\User\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
@@ -2521,3 +3419,4 @@
     }
   ]
 }
+>>>>>>> main
