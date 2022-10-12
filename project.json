@@ -3,10 +3,7 @@
   "description": "Part 1 ",
   "main": "Main.xaml",
   "dependencies": {
-<<<<<<< HEAD
     "BalaReva.Excel.Activities": "[2021.0.0]",
-=======
->>>>>>> main
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Mail.Activities": "[1.15.2]",
     "UiPath.System.Activities": "[22.4.4]",
