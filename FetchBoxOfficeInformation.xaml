@@ -1,14 +1,14 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="FetchBoxOfficeInformation" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="FetchBoxOfficeInformation" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="dt_movies" Type="InOutArgument(sd:DataTable)" />
   </x:Members>
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1234,3356</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1234,3689</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>FetchBoxOfficeInformation_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
-    <sco:Collection x:TypeArguments="x:String">
+    <scg:List x:TypeArguments="x:String" Capacity="32">
       <x:String>System.Activities</x:String>
       <x:String>System.Activities.Statements</x:String>
       <x:String>System.Activities.Expressions</x:String>
@@ -41,10 +41,10 @@
       <x:String>System.Runtime.InteropServices</x:String>
       <x:String>System.Activities.DynamicUpdate</x:String>
       <x:String>UiPath.Platform.ResourceHandling</x:String>
-    </sco:Collection>
+    </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
-    <sco:Collection x:TypeArguments="AssemblyReference">
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="23">
       <AssemblyReference>System.Activities</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
       <AssemblyReference>mscorlib</AssemblyReference>
@@ -68,50 +68,57 @@
       <AssemblyReference>System.Memory</AssemblyReference>
       <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
       <AssemblyReference>UiPath.Platform</AssemblyReference>
-    </sco:Collection>
+    </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="FetchBoxOfficeInformation" sap:VirtualizedContainerService.HintSize="1155,3291" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="FetchBoxOfficeInformation" sap:VirtualizedContainerService.HintSize="1155,3624" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="1113,72" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Start extracting budget and box office data for top movies" />
-    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="1113,2977" sap2010:WorkflowViewState.IdRef="TryCatch_2">
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="1113,71" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Start extracting budget and box office data for top movies" />
+    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="1113,3311" sap2010:WorkflowViewState.IdRef="TryCatch_2">
       <TryCatch.Try>
-        <ui:OpenBrowser AutomaticallyDownloadWebDriver="{x:Null}" CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Edge" DisplayName="Open Box Office Mojo Using Edge.exe" sap:VirtualizedContainerService.HintSize="1075,2735" sap2010:WorkflowViewState.IdRef="OpenBrowser_2" Url="https://www.boxofficemojo.com/">
+        <ui:OpenBrowser AutomaticallyDownloadWebDriver="{x:Null}" CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Edge" DisplayName="Open Box Office Mojo Using Edge.exe" sap:VirtualizedContainerService.HintSize="1075,3073" sap2010:WorkflowViewState.IdRef="OpenBrowser_2" Url="https://www.boxofficemojo.com/">
           <ui:OpenBrowser.Body>
             <ActivityAction x:TypeArguments="x:Object">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1041,2623" sap2010:WorkflowViewState.IdRef="Sequence_17">
+              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1041,2962" sap2010:WorkflowViewState.IdRef="Sequence_17">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[dt_movies]" DisplayName="Fetch data for each row in data table" sap:VirtualizedContainerService.HintSize="999,2533" sap2010:WorkflowViewState.IdRef="ForEachRow_2">
+                <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[dt_movies]" DisplayName="Fetch data for each row in data table" sap:VirtualizedContainerService.HintSize="999,2872" sap2010:WorkflowViewState.IdRef="ForEachRow_2">
                   <ui:ForEachRow.Body>
                     <ActivityAction x:TypeArguments="sd:DataRow">
                       <ActivityAction.Argument>
                         <DelegateInArgument x:TypeArguments="sd:DataRow" Name="CurrentRow" />
                       </ActivityAction.Argument>
-                      <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="965,2408" sap2010:WorkflowViewState.IdRef="Sequence_16">
+                      <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="965,2748" sap2010:WorkflowViewState.IdRef="Sequence_16">
                         <Sequence.Variables>
                           <Variable x:TypeArguments="x:Boolean" Name="movieExist" />
                           <Variable x:TypeArguments="x:String" Name="movieID" />
+                          <Variable x:TypeArguments="x:String" Name="movieName" />
                         </Sequence.Variables>
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <ui:GetRowItem Column="{x:Null}" ColumnName="{x:Null}" ColumnIndex="0" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="923,198" sap2010:WorkflowViewState.IdRef="GetRowItem_2" Row="[CurrentRow]">
+                        <ui:GetRowItem Column="{x:Null}" ColumnName="{x:Null}" ColumnIndex="0" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="923,195" sap2010:WorkflowViewState.IdRef="GetRowItem_2" Row="[CurrentRow]">
                           <ui:GetRowItem.Value>
                             <OutArgument x:TypeArguments="x:String">[movieID]</OutArgument>
                           </ui:GetRowItem.Value>
                         </ui:GetRowItem>
+                        <ui:GetRowItem Column="{x:Null}" ColumnName="{x:Null}" ColumnIndex="1" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="923,195" sap2010:WorkflowViewState.IdRef="GetRowItem_3" Row="[CurrentRow]">
+                          <ui:GetRowItem.Value>
+                            <OutArgument x:TypeArguments="x:String">[movieName]</OutArgument>
+                          </ui:GetRowItem.Value>
+                        </ui:GetRowItem>
+                        <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="923,71" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="[&quot;Getting info for &quot; + movieName]" />
                         <Assign sap:VirtualizedContainerService.HintSize="923,70" sap2010:WorkflowViewState.IdRef="Assign_8">
                           <Assign.To>
                             <OutArgument x:TypeArguments="x:String">[movieID]</OutArgument>
@@ -126,7 +133,7 @@
                             <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="1faea1a7-efa5-477b-9eb6-ba7dee4932c0" InformativeScreenshot="743ede9b4457f3a1444904652de19f9f" Selector="&lt;webctrl aaname='Earliest Release Date' parentid='a-page' tag='SPAN' /&gt;" TimeoutMS="2000" WaitForReady="INTERACTIVE" />
                           </ui:UiElementExists.Target>
                         </ui:UiElementExists>
-                        <If Condition="[movieExist]" sap:VirtualizedContainerService.HintSize="923,1705" sap2010:WorkflowViewState.IdRef="If_6">
+                        <If Condition="[movieExist]" sap:VirtualizedContainerService.HintSize="923,1702" sap2010:WorkflowViewState.IdRef="If_6">
                           <If.Then>
                             <Sequence sap:VirtualizedContainerService.HintSize="887,1506" sap2010:WorkflowViewState.IdRef="Sequence_14">
                               <Sequence.Variables>
