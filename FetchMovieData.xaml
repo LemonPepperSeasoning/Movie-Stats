@@ -5,7 +5,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1364,4702</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1234,2352</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>FetchMovieData_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="72">
@@ -86,7 +86,7 @@
       <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="FetchMovieData" sap:VirtualizedContainerService.HintSize="1374,4637" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="FetchMovieData" sap:VirtualizedContainerService.HintSize="975,2287" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="movieConfig" />
       <Variable x:TypeArguments="x:String" Name="movieDate" />
@@ -101,12 +101,12 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:InputDialog Options="{x:Null}" DisplayName="Configurate Input" sap:VirtualizedContainerService.HintSize="1332,306" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Do you want to configure the parameters? (If No, default parameters will be used)" OptionsString="Yes;No" Title="Configuration">
+    <ui:InputDialog Options="{x:Null}" DisplayName="Configurate Input" sap:VirtualizedContainerService.HintSize="933,306" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Do you want to configure the parameters? (If No, default parameters will be used)" OptionsString="Yes;No" Title="Configuration">
       <ui:InputDialog.Result>
         <OutArgument x:TypeArguments="x:String">[movieConfig]</OutArgument>
       </ui:InputDialog.Result>
     </ui:InputDialog>
-    <ui:BuildDataTable DataTable="[dt_movies]" DisplayName="Build Data Table For Top Movies" sap:VirtualizedContainerService.HintSize="1332,69" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;              &lt;xs:sequence&gt;&#xA;                &lt;xs:element name=&quot;Movie_x0020_ID&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Movie_x0020_Names&quot; msdata:Caption=&quot;&quot; minOccurs=&quot;0&quot;&gt;&#xA;                  &lt;xs:simpleType&gt;&#xA;                    &lt;xs:restriction base=&quot;xs:string&quot;&gt;&#xA;                      &lt;xs:maxLength value=&quot;100&quot; /&gt;&#xA;                    &lt;/xs:restriction&gt;&#xA;                  &lt;/xs:simpleType&gt;&#xA;                &lt;/xs:element&gt;&#xA;                &lt;xs:element name=&quot;Movie_x0020_Rating&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Worldwide_x0020_Gross&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Domestic_x0020_Gross_x0020_Percentage&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;International_x0020_Gross_x0020_Percentage&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Budget&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;              &lt;/xs:sequence&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;&lt;/NewDataSet&gt;">
+    <ui:BuildDataTable DataTable="[dt_movies]" DisplayName="Build Data Table For Top Movies" sap:VirtualizedContainerService.HintSize="933,69" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;              &lt;xs:sequence&gt;&#xA;                &lt;xs:element name=&quot;Movie_x0020_ID&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Movie_x0020_Names&quot; msdata:Caption=&quot;&quot; minOccurs=&quot;0&quot;&gt;&#xA;                  &lt;xs:simpleType&gt;&#xA;                    &lt;xs:restriction base=&quot;xs:string&quot;&gt;&#xA;                      &lt;xs:maxLength value=&quot;100&quot; /&gt;&#xA;                    &lt;/xs:restriction&gt;&#xA;                  &lt;/xs:simpleType&gt;&#xA;                &lt;/xs:element&gt;&#xA;                &lt;xs:element name=&quot;Movie_x0020_Rating&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Worldwide_x0020_Gross&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Domestic_x0020_Gross_x0020_Percentage&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;International_x0020_Gross_x0020_Percentage&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Budget&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;              &lt;/xs:sequence&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;&lt;/NewDataSet&gt;">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -114,9 +114,9 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:BuildDataTable>
-    <If Condition="[movieConfig = &quot;Yes&quot;]" sap:VirtualizedContainerService.HintSize="1332,3019" sap2010:WorkflowViewState.IdRef="If_2">
+    <If Condition="[movieConfig = &quot;Yes&quot;]" sap:VirtualizedContainerService.HintSize="933,660" sap2010:WorkflowViewState.IdRef="If_2">
       <If.Then>
-        <Sequence DisplayName="Customize Search Parameters" sap:VirtualizedContainerService.HintSize="887,2849" sap2010:WorkflowViewState.IdRef="Sequence_4">
+        <Sequence DisplayName="Customize Search Parameters" sap:VirtualizedContainerService.HintSize="444,213" sap2010:WorkflowViewState.IdRef="Sequence_4">
           <Sequence.Variables>
             <Variable x:TypeArguments="x:String" Name="movieSortingOrder" />
             <Variable x:TypeArguments="x:Int32" Name="minimumVotes" />
@@ -127,107 +127,35 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <ui:InterruptibleDoWhile CurrentIndex="{x:Null}" Condition="[System.Text.RegularExpressions.Regex.Match(movieDate, &quot;\d{4}\-(0[1-9]|1[012])\-(0[1-9]|[12][0-9]|3[01])&quot;).Value.Length = 0 or dateChecker]" DisplayName="Do While" sap:VirtualizedContainerService.HintSize="845,682" sap2010:WorkflowViewState.IdRef="InterruptibleDoWhile_2">
-            <ui:InterruptibleDoWhile.Body>
-              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="400,505" sap2010:WorkflowViewState.IdRef="Sequence_10">
-                <sap:WorkflowViewStateService.ViewState>
-                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                  </scg:Dictionary>
-                </sap:WorkflowViewStateService.ViewState>
-                <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Release Date Input" sap:VirtualizedContainerService.HintSize="358,252" sap2010:WorkflowViewState.IdRef="InputDialog_7" IsPassword="False" Label="Please enter the earliest movie release datem in format (yyyy-mm-dd).  \n (Eg, If you enter 2010-01-02, only movies release after january 2nd 2010 will be displayed) " Title="Earliest movie release date">
-                  <ui:InputDialog.Result>
-                    <OutArgument x:TypeArguments="x:String">[movieDate]</OutArgument>
-                  </ui:InputDialog.Result>
-                </ui:InputDialog>
-                <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke Workflow File" sap:VirtualizedContainerService.HintSize="358,123" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="DateChecker.xaml">
-                  <ui:InvokeWorkflowFile.Arguments>
-                    <InArgument x:TypeArguments="x:String" x:Key="movieDate">[movieDate]</InArgument>
-                    <OutArgument x:TypeArguments="x:Boolean" x:Key="dateChecker">[dateChecker]</OutArgument>
-                  </ui:InvokeWorkflowFile.Arguments>
-                </ui:InvokeWorkflowFile>
-              </Sequence>
-            </ui:InterruptibleDoWhile.Body>
-          </ui:InterruptibleDoWhile>
-          <ui:InputDialog Options="{x:Null}" DisplayName="Movie Rating MultiChoice" sap:VirtualizedContainerService.HintSize="845,306" sap2010:WorkflowViewState.IdRef="InputDialog_3" IsPassword="False" Label="Please input minimum rating a movie can have? (Ratings are between 0~10, where 10 is the highest rating)" OptionsString="0;0.5;1;1.5;2;2.5;3;3.5;4;4.5;5;5.5;6;6.5;7;7.5;8;8.5;9;9.5;10;" Title="Minimum movie rating">
-            <ui:InputDialog.Result>
-              <OutArgument x:TypeArguments="x:String">[movieRating]</OutArgument>
-            </ui:InputDialog.Result>
-          </ui:InputDialog>
-          <ui:InterruptibleDoWhile CurrentIndex="{x:Null}" Condition="[not movieVotes.IsNumeric()]" DisplayName="Do While" sap:VirtualizedContainerService.HintSize="845,519" sap2010:WorkflowViewState.IdRef="InterruptibleDoWhile_1">
-            <ui:InterruptibleDoWhile.Body>
-              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="400,342" sap2010:WorkflowViewState.IdRef="Sequence_9">
-                <sap:WorkflowViewStateService.ViewState>
-                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                  </scg:Dictionary>
-                </sap:WorkflowViewStateService.ViewState>
-                <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Minimum Votes Input" sap:VirtualizedContainerService.HintSize="358,252" sap2010:WorkflowViewState.IdRef="InputDialog_4" IsPassword="False" Label="Please input the minimum number of votes movie can have ?  (Any Number e.g. 50000) " Title="Minimum votes">
-                  <ui:InputDialog.Result>
-                    <OutArgument x:TypeArguments="x:String">[movieVotes]</OutArgument>
-                  </ui:InputDialog.Result>
-                </ui:InputDialog>
-              </Sequence>
-            </ui:InterruptibleDoWhile.Body>
-          </ui:InterruptibleDoWhile>
-          <ui:InputDialog Options="{x:Null}" DisplayName="Movie Genre MultiChoice" sap:VirtualizedContainerService.HintSize="845,306" sap2010:WorkflowViewState.IdRef="InputDialog_5" IsPassword="False" Label="Please pick a Genre" OptionsString="Action;Adventure;Animation;Biography;Comedy;Crime;Drama;Family;Fantasy;Film-Noir;History;Horror;Music;Musical;Mystery;Romance;Sci-Fi;Sport;Thriller;War;Western" Title="Movies Genres">
-            <ui:InputDialog.Result>
-              <OutArgument x:TypeArguments="x:String">[movieGenre]</OutArgument>
-            </ui:InputDialog.Result>
-          </ui:InputDialog>
-          <ui:InputDialog Options="{x:Null}" DisplayName="Movie Sorting Order Multichoice" sap:VirtualizedContainerService.HintSize="845,306" sap2010:WorkflowViewState.IdRef="InputDialog_6" IsPassword="False" Label="Would you like to see the highest rating or lower rating movies?" OptionsString="Highest rating;Lowest rating" Title="Sorting order">
-            <ui:InputDialog.Result>
-              <OutArgument x:TypeArguments="x:String">[movieSortingOrder]</OutArgument>
-            </ui:InputDialog.Result>
-          </ui:InputDialog>
-          <If Condition="[movieSortingOrder = &quot;Highest&quot;]" sap:VirtualizedContainerService.HintSize="845,330" sap2010:WorkflowViewState.IdRef="If_1">
-            <If.Then>
-              <Sequence DisplayName="Sort by highest rating" sap:VirtualizedContainerService.HintSize="400,160" sap2010:WorkflowViewState.IdRef="Sequence_2">
-                <sap:WorkflowViewStateService.ViewState>
-                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                  </scg:Dictionary>
-                </sap:WorkflowViewStateService.ViewState>
-                <Assign sap:VirtualizedContainerService.HintSize="358,70" sap2010:WorkflowViewState.IdRef="Assign_1">
-                  <Assign.To>
-                    <OutArgument x:TypeArguments="x:String">[movieSorting]</OutArgument>
-                  </Assign.To>
-                  <Assign.Value>
-                    <InArgument x:TypeArguments="x:String">user_rating,desc</InArgument>
-                  </Assign.Value>
-                </Assign>
-              </Sequence>
-            </If.Then>
-            <If.Else>
-              <Sequence DisplayName="Sort by lowest rating" sap:VirtualizedContainerService.HintSize="400,160" sap2010:WorkflowViewState.IdRef="Sequence_3">
-                <sap:WorkflowViewStateService.ViewState>
-                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                  </scg:Dictionary>
-                </sap:WorkflowViewStateService.ViewState>
-                <Assign sap:VirtualizedContainerService.HintSize="358,70" sap2010:WorkflowViewState.IdRef="Assign_2">
-                  <Assign.To>
-                    <OutArgument x:TypeArguments="x:String">[movieSorting]</OutArgument>
-                  </Assign.To>
-                  <Assign.Value>
-                    <InArgument x:TypeArguments="x:String">user_rating,asc</InArgument>
-                  </Assign.Value>
-                </Assign>
-              </Sequence>
-            </If.Else>
-          </If>
-          <Assign DisplayName="Assign movie url" sap:VirtualizedContainerService.HintSize="845,70" sap2010:WorkflowViewState.IdRef="Assign_3">
-            <Assign.To>
-              <OutArgument x:TypeArguments="x:String">[movieUrl]</OutArgument>
-            </Assign.To>
-            <Assign.Value>
-              <InArgument x:TypeArguments="x:String">["https://www.imdb.com/search/title/?title_type=feature&amp;release_date="+movieDate+ ",&amp;user_rating=" + movieRating + ",&amp;num_votes=" + movieVotes + ",&amp;genres=" + movieGenre + "&amp;sort=" + movieSorting]</InArgument>
-            </Assign.Value>
-          </Assign>
+          <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke Workflow File" sap:VirtualizedContainerService.HintSize="402,123" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="GetUserConfig.xaml">
+            <ui:InvokeWorkflowFile.Arguments>
+              <InOutArgument x:TypeArguments="x:String" x:Key="movieDate">
+                <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="movieDate" />
+              </InOutArgument>
+              <InOutArgument x:TypeArguments="x:String" x:Key="movieRating">
+                <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="movieRating" />
+              </InOutArgument>
+              <InOutArgument x:TypeArguments="x:String" x:Key="movieVotes">
+                <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="movieVotes" />
+              </InOutArgument>
+              <InOutArgument x:TypeArguments="x:String" x:Key="movieGenre">
+                <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="movieGenre" />
+              </InOutArgument>
+              <InOutArgument x:TypeArguments="x:String" x:Key="movieSortingOrder">
+                <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="movieSortingOrder" />
+              </InOutArgument>
+              <InOutArgument x:TypeArguments="x:String" x:Key="movieSorting">
+                <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="movieSorting" />
+              </InOutArgument>
+              <InOutArgument x:TypeArguments="x:String" x:Key="movieUrl">
+                <mva:VisualBasicReference x:TypeArguments="x:String" ExpressionText="movieUrl" />
+              </InOutArgument>
+            </ui:InvokeWorkflowFile.Arguments>
+          </ui:InvokeWorkflowFile>
         </Sequence>
       </If.Then>
       <If.Else>
-        <Sequence DisplayName="Default Parameters" sap:VirtualizedContainerService.HintSize="400,490" sap2010:WorkflowViewState.IdRef="Sequence_5">
+        <Sequence DisplayName="Default Parameters" sap:VirtualizedContainerService.HintSize="444,490" sap2010:WorkflowViewState.IdRef="Sequence_5">
           <Sequence.Variables>
             <Variable x:TypeArguments="x:String" Name="dateToday" />
             <Variable x:TypeArguments="x:Int32" Name="movieYear" />
@@ -237,7 +165,7 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <Assign sap:VirtualizedContainerService.HintSize="358,70" sap2010:WorkflowViewState.IdRef="Assign_4">
+          <Assign sap:VirtualizedContainerService.HintSize="402,70" sap2010:WorkflowViewState.IdRef="Assign_4">
             <Assign.To>
               <OutArgument x:TypeArguments="x:String">[dateToday]</OutArgument>
             </Assign.To>
@@ -245,7 +173,7 @@
               <InArgument x:TypeArguments="x:String">[Now.ToString(“yyyy-MM-dd”)]</InArgument>
             </Assign.Value>
           </Assign>
-          <Assign sap:VirtualizedContainerService.HintSize="358,70" sap2010:WorkflowViewState.IdRef="Assign_5">
+          <Assign sap:VirtualizedContainerService.HintSize="402,70" sap2010:WorkflowViewState.IdRef="Assign_5">
             <Assign.To>
               <OutArgument x:TypeArguments="x:Int32">[movieYear]</OutArgument>
             </Assign.To>
@@ -253,7 +181,7 @@
               <InArgument x:TypeArguments="x:Int32">[(Integer.Parse(dateToday.Substring(0,4))) - 20]</InArgument>
             </Assign.Value>
           </Assign>
-          <Assign sap:VirtualizedContainerService.HintSize="358,70" sap2010:WorkflowViewState.IdRef="Assign_6">
+          <Assign sap:VirtualizedContainerService.HintSize="402,70" sap2010:WorkflowViewState.IdRef="Assign_6">
             <Assign.To>
               <OutArgument x:TypeArguments="x:String">[movieDate]</OutArgument>
             </Assign.To>
@@ -261,7 +189,7 @@
               <InArgument x:TypeArguments="x:String">[movieYear.ToString+dateToday.Substring(4, 6)]</InArgument>
             </Assign.Value>
           </Assign>
-          <Assign sap:VirtualizedContainerService.HintSize="358,70" sap2010:WorkflowViewState.IdRef="Assign_7">
+          <Assign sap:VirtualizedContainerService.HintSize="402,70" sap2010:WorkflowViewState.IdRef="Assign_7">
             <Assign.To>
               <OutArgument x:TypeArguments="x:String">[movieUrl]</OutArgument>
             </Assign.To>
@@ -272,8 +200,8 @@
         </Sequence>
       </If.Else>
     </If>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="1332,72" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Extracting names and ratings of top movies from the website" />
-    <Sequence DisplayName="Movie Data Web Extraction" sap:VirtualizedContainerService.HintSize="1332,809" sap2010:WorkflowViewState.IdRef="Sequence_7">
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="933,72" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Extracting names and ratings of top movies from the website" />
+    <Sequence DisplayName="Movie Data Web Extraction" sap:VirtualizedContainerService.HintSize="933,818" sap2010:WorkflowViewState.IdRef="Sequence_7">
       <Sequence.Variables>
         <Variable x:TypeArguments="sd:DataTable" Default="[New System.Data.DataTable]" Name="ExtractDataTable" />
       </Sequence.Variables>
@@ -283,7 +211,7 @@
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="440,687" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+      <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="505,696" sap2010:WorkflowViewState.IdRef="TryCatch_1">
         <TryCatch.Try>
           <ui:OpenBrowser AutomaticallyDownloadWebDriver="{x:Null}" CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Edge" DisplayName="Open Movie URL Using Edge.exe" sap:VirtualizedContainerService.HintSize="467,454" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="[movieUrl]">
             <ui:OpenBrowser.Body>
@@ -297,7 +225,7 @@
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ui:ExtractData DelayBetweenPagesMS="{x:Null}" NextLinkSelector="{x:Null}" ContinueOnError="True" DataTable="[dt_movies]" DisplayName="Extract Structured Movie Data From Page" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;/row&gt;&lt;column exact='1' name='Movie ID' attr='href'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='h3' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;/column&gt;&lt;column exact='1' name='Movie Names' attr='text'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='h3' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;/column&gt;&lt;column exact='1' name='Movie Rating' attr='text'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='strong' idx='1' /&gt;&lt;/column&gt;&lt;/extract&gt;" sap:VirtualizedContainerService.HintSize="358,96" sap2010:WorkflowViewState.IdRef="ExtractData_1" MaxNumberOfResults="100" SimulateClick="True">
+                  <ui:ExtractData DelayBetweenPagesMS="{x:Null}" NextLinkSelector="{x:Null}" ContinueOnError="True" DataTable="[dt_movies]" DisplayName="Extract Structured Movie Data From Page" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;/row&gt;&lt;column exact='1' name='Movie ID' attr='href'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='h3' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;/column&gt;&lt;column exact='1' name='Movie Names' attr='text'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='h3' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;/column&gt;&lt;column exact='1' name='Movie Rating' attr='text'&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='div' idx='3' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='strong' idx='1' /&gt;&lt;/column&gt;&lt;/extract&gt;" sap:VirtualizedContainerService.HintSize="358,96" sap2010:WorkflowViewState.IdRef="ExtractData_1" MaxNumberOfResults="25" SimulateClick="True">
                     <ui:ExtractData.Target>
                       <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="205a7201-b97f-4459-af4f-627e48ae83b2" Selector="&lt;webctrl parentid='main' tag='DIV' /&gt;" WaitForReady="COMPLETE">
                         <ui:Target.TimeoutMS>
@@ -330,10 +258,10 @@
           </ui:OpenBrowser>
         </TryCatch.Try>
         <TryCatch.Catches>
-          <Catch x:TypeArguments="ui:BrowserOperationException" sap:VirtualizedContainerService.HintSize="406,511" sap2010:WorkflowViewState.IdRef="Catch`1_1">
+          <Catch x:TypeArguments="ui:BrowserOperationException" sap:VirtualizedContainerService.HintSize="471,22" sap2010:WorkflowViewState.IdRef="Catch`1_1">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
@@ -356,6 +284,6 @@
         </TryCatch.Catches>
       </TryCatch>
     </Sequence>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="1332,72" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="Finished extracting top movies data" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="933,72" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="Finished extracting top movies data" />
   </Sequence>
 </Activity>
