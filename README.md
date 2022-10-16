@@ -11,7 +11,15 @@ The movies can be filtered by Genre, Rating, and Year of production.
 
 ### Run
 
-Open the project with UIPath studio and click "Run" from the top action ribbon.
+- Open UiPath studio
+- Select "Open a Local Project"
+- Select project.json file in the root folder
+- Click "Run" from the top action ribbon
+
+If the above run instruction does not work, please refer to "General caveats" section and try the below instruction:
+
+- Open Main.xaml file using UiPath Studio
+- Click "Run" from the top action ribbon
 
 ### Deployment
 
@@ -81,4 +89,4 @@ The outcome will be a single Excel file named `Movies.xlsx` with a list of data 
 
 - Desired data points such as budget may not be available due to the information not being publicly disclosed.
 - Any currently running Edge instances will be forcefully closed as UIPath tries to open its own instance.
-- If UIPath is stuck on "restoring dependencies", backup and delete `project.json` and try again
+- If UiPath is stuck on "restoring dependencies", backup and delete `project.json` and try again
