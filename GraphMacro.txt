@@ -4,9 +4,9 @@ Sub PlotGraph()
 '
 
 '
-    Range("G1:G25").Select
+    Range("G2:G26").Select
     ActiveSheet.Shapes.AddChart2(240, xlXYScatter).Select
-    ActiveChart.SetSourceData Source:=Range("Sheet1!$G$1:$G$25")
+    ActiveChart.SetSourceData Source:=Range("Sheet1!$G$2:$G$26")
     ActiveChart.ChartTitle.Select
     ActiveChart.ChartTitle.Text = "Budget to Ranking"
     Selection.Format.TextFrame2.TextRange.Characters.Text = "Budget to Ranking"
