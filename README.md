@@ -1,6 +1,6 @@
 # Movie-Stats
 
-Welcome to the Movie-Stats project, created by SOFTENG 762 Team 4 students from The University of Auckland.
+Welcome to the Movie-Stats project, created by INFOSYS 300 / SOFTENG 762 Team 4 students from The University of Auckland.
 
 ## Introduction
 
