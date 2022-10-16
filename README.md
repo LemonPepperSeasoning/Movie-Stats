@@ -37,19 +37,34 @@ Default configuration:
 
 ## Detailed implementation
 
-#### Module 1
+#### FetchMovieData Module
 
 - Step 1: Load configuration
-  - Loads default configuration, or prompts user with optional changes
+  - Loads default configuration, or calls GetUserConfig module
 - Step 2: Scrape IMDb
   - Creates a url based on the selected configurations and loads each title into a datatable
 
-#### Module 2
+#### GetUserConfig Module
+
+- Step 1: Configuration Inputs
+  - Gets user input
+- Step 2: Configuration Inputs
+  - Run's DateChecker module to check the user date input is valid
+
+#### DateChecker Module
+
+- Checks Date
+  - Checks date format is correct
+  - Checks year is valid
+  - Checks month is valid if year is valid
+  - Checks day is valid if year and month are valid
+
+#### FetchBoxOfficeInformation Module
 
 - Step 1: Find movie on boxofficemojo
   - With the IMDb id from earlier, go to the movie page and scrape the data while handling any errors.
 
-#### Module 3
+#### ExcelExport Module
 
 - Step 1: Save to an Excel file
   - Store the scraped data in an Excel file
